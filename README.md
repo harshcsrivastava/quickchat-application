@@ -36,9 +36,9 @@ This project was completed first and then uploaded to the repository.
 ---
 
 ## 📸 Screenshot
-![App Screenshot](https://cdn.discordapp.com/attachments/770876243805208616/1441133787944587354/preview-mainpage.png?ex=6920afee&is=691f5e6e&hm=6ae92f4487e9196c309f60d1ceebd811decb50534f72524ce5d0cdfe2c0a454d&)
+![App Screenshot](./chat-app-assets/Screenshots/Preview1.png)
 
-![Signin Screenshot](https://cdn.discordapp.com/attachments/770876243805208616/1441134169349554277/Screenshot_2025-11-21_000218.png?ex=6920b048&is=691f5ec8&hm=a96027f9827d52cee6a354f66ac62654e860d2bac949ff407c44d73b54898a99&)
+![Signin Screenshot](./chat-app-assets/Screenshots/Preview2.png)
 
 
 ---
